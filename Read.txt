@@ -1,0 +1,9 @@
+Create a virtal enviroment:
+python3 -m venv myvenv
+source myvenv/bin/activate
+
+Make sure you have installed:
+ffmpeg
+and requirements.txt
+
+Do start this repo if ya like it.
