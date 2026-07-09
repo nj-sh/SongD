@@ -6,4 +6,4 @@ Make sure you have installed:
 * ffmpeg
 * python3 install -r requirements.txt
 
-Yo start this repo if ya like it.
+Yo start this repo if ya like it..
